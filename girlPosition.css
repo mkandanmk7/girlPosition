@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("file:///C:/Users/sabal/OneDrive/Desktop/ecommerce/HTML_Learning/girlPostion/coding-bootcamp-testimonials-slider-master/images/pattern-bg.svg");
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+img {
+  width: 400px;
+  height: 400px;
+}
+.para {
+  text-align: center;
+}
+
+p.tanya {
+  font-weight: bold;
+}
